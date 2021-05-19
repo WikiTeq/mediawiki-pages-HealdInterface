@@ -4,8 +4,8 @@
     "language": "en",
     "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-HealdInterface",
     "packages": {
-        "HEALD": {
-            "globalID": "HEALD",
+        "HEALDInterface": {
+            "globalID": "heald-interface",
             "description": "Interface",
             "version": "0.1",
             "pages": [
