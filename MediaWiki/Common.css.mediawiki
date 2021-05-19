@@ -1680,3 +1680,10 @@ ul.mw-gallery-packed li.gallerybox div.thumb img:hover {
 .toclevel-2 ul {
    display: none;
 }
+
+/* FancyBoxThumbs caption */
+.fancybox-title-float-wrap .child { 
+	background: #e9ecef; /* matches Chameleon navbar color */
+	text-shadow: none; /* removes text shadow */
+	color: #252525; /* caption text color */
+}
