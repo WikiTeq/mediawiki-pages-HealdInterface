@@ -5,13 +5,13 @@ The ''History of Early American Landscape Design'' digital resource represents a
 The project is organized by 100 keywords, supported by 100 featured places and historical figures. Without claiming to be comprehensive, this project models an approach to the study of landscapes and gardens that helps scholars consider past cultural conditions, uncover former appearances, and better understand the experiences and meanings of designed environments as they were built, and also as they were imagined. 
 {{break}}
 
-<gallery mode="packed" heights=275px>
-File:0855.jpg|link=Category:Keywords|<span style="font-family: sans-serif; color: #777777; font-size: 14px; letter-spacing: 2px;">KEYWORDS</span><br><span style="font-size:13px; font-family: sans-serif;">[[:File:0855.jpg|Alexander Jackson Davis, ''Garden Arch at Montgomery Place'', c. 1850.]]</span>
-
-File:0521.jpg|link=Category:Places|<span style="font-family: sans-serif; color: #777777; font-size: 14px; letter-spacing: 2px;">PLACES</span><br><span style="font-size:13px; font-family: sans-serif">[[:File:0521.jpg|William Rush, ''North East or Franklin Public Square, Philadelphia'', 1824.]]</span>
-
-File:2180_cropped.jpg|link=Category:People|<span style="font-family: sans-serif; color: #777777; font-size: 14px; letter-spacing: 2px;">PEOPLE</span><br><span style="font-size:13px; font-family: sans-serif;">[[:File:2180_cropped.jpg|Anonymous, ''Deborah Norris [Logan] Portrait'', n.d.]]</span>
+<div class="heald-gallery">
+<gallery mode="packed" heights="275px">
+File:0855.jpg|link=Category:Keywords|[[:File:0855.jpg|Alexander Jackson Davis, ''Garden Arch at Montgomery Place'', c. 1850.]]
+File:0521.jpg|link=Category:Places|[[:File:0521.jpg|William Rush, ''North East or Franklin Public Square, Philadelphia'', 1824.]]
+File:2180_cropped.jpg|link=Category:People|[[:File:2180_cropped.jpg|Anonymous, ''Deborah Norris [Logan] Portrait'', n.d.]]
 </gallery>
+</div>
 
 {{break}}
 
