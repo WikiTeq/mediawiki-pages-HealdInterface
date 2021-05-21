@@ -1,3 +1,2 @@
-*DotsSyntaxHighlighter[ResourceLoader|default]|DotsSyntaxHighlighter.js
 
 * ReferenceTooltips[ResourceLoader|default|type=general]|ReferenceTooltips.js|ReferenceTooltips.css
