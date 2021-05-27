@@ -140,11 +140,6 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FTagline.mediawiki"
                 },
                 {
-                    "name": "Toc",
-                    "namespace": "NS_MEDIAWIKI",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FToc.mediawiki"
-                },
-                {
                     "name": "Home",
                     "namespace": "NS_MAIN",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/Main%2FHome.mediawiki"
