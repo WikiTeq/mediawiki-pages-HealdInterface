@@ -40,6 +40,11 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FFooter.mediawiki"
                 },
                 {
+                    "name": "Gadget-DotsSyntaxHighlighter.js",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FGadget-DotsSyntaxHighlighter.js.mediawiki"
+                },
+                {
                     "name": "Gadget-ReferenceTooltips",
                     "namespace": "NS_MEDIAWIKI",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FGadget-ReferenceTooltips.mediawiki"
@@ -58,6 +63,16 @@
                     "name": "Gadgets-definition",
                     "namespace": "NS_MEDIAWIKI",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FGadgets-definition.mediawiki"
+                },
+                {
+                    "name": "Gadgets\/MediaWiki:Gadget-DotsSyntaxHighlighter",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FGadgets%7CMediaWiki%3AGadget-DotsSyntaxHighlighter.mediawiki"
+                },
+                {
+                    "name": "Gadgets\/MediaWiki:Gadget-DotsSyntaxHighlighter.js",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FGadgets%7CMediaWiki%3AGadget-DotsSyntaxHighlighter.js.mediawiki"
                 },
                 {
                     "name": "Group-sysop.css",
