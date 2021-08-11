@@ -1698,9 +1698,7 @@ ul.mw-gallery-packed li.gallerybox div.thumb img:hover {
 
 /* Hide red links for anonymous HEAL-147 */
 a.new {
-color: #212529 !important;
-}
-a.new:hover, a.new:focus {
-text-decoration: none !important; 
-cursor: text; 
+	color: inherit !important;
+	text-decoration: inherit;
+	pointer-events: none;
 }
