@@ -80,6 +80,11 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FGroup-sysop.css.mediawiki"
                 },
                 {
+                    "name": "Group-user.css",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FGroup-user.css.mediawiki"
+                },                
+                {
                     "name": "Idisplay",
                     "namespace": "NS_MEDIAWIKI",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FIdisplay.mediawiki"
