@@ -1,8 +1,9 @@
 /* CSS placed here will affect registered users only */
+
+/* Restore red links for users HEAL-147 */
 a.new {
-color: #ba0000 !important;
+color: #bc0000 !important;
+text-decoration: auto;
+pointer-events: auto;
 }
-a.new:hover, a.new:focus {
-text-decoration: underline !important; 
-cursor: pointer !important; 
-}
+

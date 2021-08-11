@@ -14,7 +14,6 @@ $(document).ready(function(){
 if ( $(window).width() > 767 ) {
     $(".bannerImage").css({'background-image' : 'url(' + getRandomImage() + ')'}).addClass('fade-in');
 }
-noredlinks();
 });
 
 /*Make .caret in nav rotate*/
@@ -34,14 +33,3 @@ $(window).scroll(function() {
 		$('a.back-to-top').fadeOut('slow');
 	}
 });
-
-/* Makes red links unclickable for anonymous users. The related CSS comes from Mediawiki:Group-user.css */
-function noredlinks(){ 
-   if( mw.config.get('wgUserGroups').indexOf( 'user' ) !== -1 ) {
-        // normal links
-    } else {
-        $('a.new').click(function(event){
-            event.preventDefault();
-        });
-    }
-}
