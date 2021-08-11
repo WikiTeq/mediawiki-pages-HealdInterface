@@ -1,0 +1,8 @@
+/* CSS placed here will affect registered users only */
+a.new {
+color: #ba0000 !important;
+}
+a.new:hover, a.new:focus {
+text-decoration: underline !important; 
+cursor: pointer !important; 
+}
