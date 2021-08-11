@@ -1695,3 +1695,12 @@ ul.mw-gallery-packed li.gallerybox div.thumb img:hover {
 	text-shadow: none; /* removes text shadow */
 	color: #252525; /* caption text color */
 }
+
+/* Hide red links for anonymous HEAL-147 */
+a.new {
+color: #212529 !important;
+}
+a.new:hover, a.new:focus {
+text-decoration: none !important; 
+cursor: text; 
+}
