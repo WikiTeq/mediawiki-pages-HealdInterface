@@ -95,11 +95,6 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FJumptosearch.mediawiki"
                 },
                 {
-                    "name": "Mobile.css",
-                    "namespace": "NS_MEDIAWIKI",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FMobile.css.mediawiki"
-                },
-                {
                     "name": "Multicatsearch comment",
                     "namespace": "NS_MEDIAWIKI",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdInterface\/master\/MediaWiki%2FMulticatsearch%20comment.mediawiki"
