@@ -5,7 +5,7 @@
     "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-HealdInterface",
     "packages": {
         "HEALDInterface": {
-            "globalID": "heald-interface",
+            "globalID": "com.wikiteq.HealdInterface",
             "description": "Interface",
             "version": "0.1",
             "pages": [
